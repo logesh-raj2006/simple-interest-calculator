@@ -33,7 +33,3 @@ This calculator helps beginners understand how interest is calculated in:
 
 ##  Technologies Used
 - Markdown 
-
-
-## 👤 Author
-**Logesh Raj**
